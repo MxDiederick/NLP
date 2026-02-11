@@ -1,0 +1,6 @@
+numpy
+jax
+scikit-learn
+pandas
+seaborn
+tabulate
